@@ -12,7 +12,7 @@ import os
 # ============================================================================
 # DATA LOADING & PREPROCESSING
 # ============================================================================
-def load_data(file_path='\\wsl.localhost\Ubuntu-22.04\home\swaroop\hackathon_ws\src\bottling_energy_sim\bottling_energy_sim\data\bottling_sim.yaml'):
+def load_data(file_path='src/bottling_energy_sim/bottling_energy_sim/data/bottling_sim.yaml'):
     """Load data from YAML or CSV format with automatic fallback"""
     file_path = file_path if os.path.exists(file_path) else 'data.csv'
     

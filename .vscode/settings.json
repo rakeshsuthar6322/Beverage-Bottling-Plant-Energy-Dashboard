@@ -1,0 +1,31 @@
+{
+    "ROS2.distro": "humble",
+    "python.autoComplete.extraPaths": [
+        "/home/rakeshsuthar6322/3dobject_detection/build/point_pillar",
+        "/home/rakeshsuthar6322/3dobject_detection/install/point_pillar/lib/python3.10/site-packages",
+        "/home/rakeshsuthar6322/3dobject_detection/build/object_3d_tracker",
+        "/home/rakeshsuthar6322/3dobject_detection/install/object_3d_tracker/lib/python3.10/site-packages",
+        "/home/rakeshsuthar6322/3dobject_detection/install/vision_msgs/local/lib/python3.10/dist-packages",
+        "/home/rakeshsuthar6322/3dobject_detection/build/ros2_kitti_publishers",
+        "/home/rakeshsuthar6322/3dobject_detection/install/ros2_kitti_publishers/lib/python3.10/site-packages",
+        "/home/rakeshsuthar6322/3dobject_detection/build/pointpillars",
+        "/home/rakeshsuthar6322/3dobject_detection/install/pointpillars/lib/python3.10/site-packages",
+        "/home/rakeshsuthar6322/3dobject_detection/src/PointPillars-main",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/home/rakeshsuthar6322/3dobject_detection/build/point_pillar",
+        "/home/rakeshsuthar6322/3dobject_detection/install/point_pillar/lib/python3.10/site-packages",
+        "/home/rakeshsuthar6322/3dobject_detection/build/object_3d_tracker",
+        "/home/rakeshsuthar6322/3dobject_detection/install/object_3d_tracker/lib/python3.10/site-packages",
+        "/home/rakeshsuthar6322/3dobject_detection/install/vision_msgs/local/lib/python3.10/dist-packages",
+        "/home/rakeshsuthar6322/3dobject_detection/build/ros2_kitti_publishers",
+        "/home/rakeshsuthar6322/3dobject_detection/install/ros2_kitti_publishers/lib/python3.10/site-packages",
+        "/home/rakeshsuthar6322/3dobject_detection/build/pointpillars",
+        "/home/rakeshsuthar6322/3dobject_detection/install/pointpillars/lib/python3.10/site-packages",
+        "/home/rakeshsuthar6322/3dobject_detection/src/PointPillars-main",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ]
+}

@@ -1,0 +1,641 @@
+{
+  "daily_history": [
+    {
+      "date": "2025-12-27",
+      "exported_energy": 150.88,
+      "selfuse_energy": 165.2,
+      "grid_consumption": 76.73,
+      "yield_energy": 316.08
+    },
+    {
+      "date": "2025-12-28",
+      "exported_energy": 148.74,
+      "selfuse_energy": 145.5,
+      "grid_consumption": 59.88,
+      "yield_energy": 294.24
+    },
+    {
+      "date": "2025-12-29",
+      "exported_energy": 173.75,
+      "selfuse_energy": 147.13,
+      "grid_consumption": 51.36,
+      "yield_energy": 320.88
+    },
+    {
+      "date": "2025-12-30",
+      "exported_energy": 173.2,
+      "selfuse_energy": 142.43,
+      "grid_consumption": 98.72,
+      "yield_energy": 315.64
+    },
+    {
+      "date": "2025-12-31",
+      "exported_energy": 164.87,
+      "selfuse_energy": 141.61,
+      "grid_consumption": 103.34,
+      "yield_energy": 306.48
+    },
+    {
+      "date": "2026-01-01",
+      "exported_energy": 165.08,
+      "selfuse_energy": 148.46,
+      "grid_consumption": 96.32,
+      "yield_energy": 313.54
+    },
+    {
+      "date": "2026-01-02",
+      "exported_energy": 193.88,
+      "selfuse_energy": 145.3,
+      "grid_consumption": 72.2,
+      "yield_energy": 339.18
+    },
+    {
+      "date": "2026-01-03",
+      "exported_energy": 208.53,
+      "selfuse_energy": 131.7,
+      "grid_consumption": 103.38,
+      "yield_energy": 340.23
+    },
+    {
+      "date": "2026-01-04",
+      "exported_energy": 165.4,
+      "selfuse_energy": 148.31,
+      "grid_consumption": 52.28,
+      "yield_energy": 313.71
+    },
+    {
+      "date": "2026-01-05",
+      "exported_energy": 215.07,
+      "selfuse_energy": 138.61,
+      "grid_consumption": 85.84,
+      "yield_energy": 353.68
+    },
+    {
+      "date": "2026-01-06",
+      "exported_energy": 224.17,
+      "selfuse_energy": 148.66,
+      "grid_consumption": 103.39,
+      "yield_energy": 372.83
+    },
+    {
+      "date": "2026-01-07",
+      "exported_energy": 229.28,
+      "selfuse_energy": 188.4,
+      "grid_consumption": 54.56,
+      "yield_energy": 417.67
+    },
+    {
+      "date": "2026-01-08",
+      "exported_energy": 195.38,
+      "selfuse_energy": 143.42,
+      "grid_consumption": 46.64,
+      "yield_energy": 338.8
+    },
+    {
+      "date": "2026-01-09",
+      "exported_energy": 209.79,
+      "selfuse_energy": 162.17,
+      "grid_consumption": 72.24,
+      "yield_energy": 371.96
+    },
+    {
+      "date": "2026-01-10",
+      "exported_energy": 193.04,
+      "selfuse_energy": 160.38,
+      "grid_consumption": 65.92,
+      "yield_energy": 353.43
+    },
+    {
+      "date": "2026-01-11",
+      "exported_energy": 220.36,
+      "selfuse_energy": 177.1,
+      "grid_consumption": 88.35,
+      "yield_energy": 397.47
+    },
+    {
+      "date": "2026-01-12",
+      "exported_energy": 195.55,
+      "selfuse_energy": 148.43,
+      "grid_consumption": 67.73,
+      "yield_energy": 343.98
+    },
+    {
+      "date": "2026-01-13",
+      "exported_energy": 218.4,
+      "selfuse_energy": 148.33,
+      "grid_consumption": 59.39,
+      "yield_energy": 366.72
+    },
+    {
+      "date": "2026-01-14",
+      "exported_energy": 192.54,
+      "selfuse_energy": 183.7,
+      "grid_consumption": 89.79,
+      "yield_energy": 376.24
+    },
+    {
+      "date": "2026-01-15",
+      "exported_energy": 156.08,
+      "selfuse_energy": 123.88,
+      "grid_consumption": 57.5,
+      "yield_energy": 279.96
+    },
+    {
+      "date": "2026-01-16",
+      "exported_energy": 173.13,
+      "selfuse_energy": 125.81,
+      "grid_consumption": 94.44,
+      "yield_energy": 298.94
+    },
+    {
+      "date": "2026-01-17",
+      "exported_energy": 170.29,
+      "selfuse_energy": 146.53,
+      "grid_consumption": 70.74,
+      "yield_energy": 316.83
+    },
+    {
+      "date": "2026-01-18",
+      "exported_energy": 157.7,
+      "selfuse_energy": 145.98,
+      "grid_consumption": 55.43,
+      "yield_energy": 303.68
+    },
+    {
+      "date": "2026-01-19",
+      "exported_energy": 199.12,
+      "selfuse_energy": 126.63,
+      "grid_consumption": 83.33,
+      "yield_energy": 325.75
+    },
+    {
+      "date": "2026-01-20",
+      "exported_energy": 156.52,
+      "selfuse_energy": 158.99,
+      "grid_consumption": 61.69,
+      "yield_energy": 315.51
+    },
+    {
+      "date": "2026-01-21",
+      "exported_energy": 133.89,
+      "selfuse_energy": 134.68,
+      "grid_consumption": 40.52,
+      "yield_energy": 268.57
+    },
+    {
+      "date": "2026-01-22",
+      "exported_energy": 160.84,
+      "selfuse_energy": 123.46,
+      "grid_consumption": 37.06,
+      "yield_energy": 284.31
+    },
+    {
+      "date": "2026-01-23",
+      "exported_energy": 126.37,
+      "selfuse_energy": 142.44,
+      "grid_consumption": 47.69,
+      "yield_energy": 268.81
+    },
+    {
+      "date": "2026-01-24",
+      "exported_energy": 167.35,
+      "selfuse_energy": 123.99,
+      "grid_consumption": 36.03,
+      "yield_energy": 291.35
+    },
+    {
+      "date": "2026-01-25",
+      "exported_energy": 193.87,
+      "selfuse_energy": 153.63,
+      "grid_consumption": 35.75,
+      "yield_energy": 347.49
+    },
+    {
+      "date": "2026-01-26",
+      "exported_energy": 146.3,
+      "selfuse_energy": 120.73,
+      "grid_consumption": 84.34,
+      "yield_energy": 267.03
+    },
+    {
+      "date": "2026-01-27",
+      "exported_energy": 176.56,
+      "selfuse_energy": 127.4,
+      "grid_consumption": 51.57,
+      "yield_energy": 303.96
+    },
+    {
+      "date": "2026-01-28",
+      "exported_energy": 165.63,
+      "selfuse_energy": 116.58,
+      "grid_consumption": 90.47,
+      "yield_energy": 282.21
+    },
+    {
+      "date": "2026-01-29",
+      "exported_energy": 140.59,
+      "selfuse_energy": 160.88,
+      "grid_consumption": 96.96,
+      "yield_energy": 301.46
+    },
+    {
+      "date": "2026-01-30",
+      "exported_energy": 201.49,
+      "selfuse_energy": 157.32,
+      "grid_consumption": 53.74,
+      "yield_energy": 358.82
+    },
+    {
+      "date": "2026-01-31",
+      "exported_energy": 168.82,
+      "selfuse_energy": 152.25,
+      "grid_consumption": 44.14,
+      "yield_energy": 321.07
+    },
+    {
+      "date": "2026-02-01",
+      "exported_energy": 174.4,
+      "selfuse_energy": 164.83,
+      "grid_consumption": 55.49,
+      "yield_energy": 339.22
+    },
+    {
+      "date": "2026-02-02",
+      "exported_energy": 219.61,
+      "selfuse_energy": 180.54,
+      "grid_consumption": 98.23,
+      "yield_energy": 400.15
+    },
+    {
+      "date": "2026-02-03",
+      "exported_energy": 169.23,
+      "selfuse_energy": 185.32,
+      "grid_consumption": 76.39,
+      "yield_energy": 354.55
+    },
+    {
+      "date": "2026-02-04",
+      "exported_energy": 196.28,
+      "selfuse_energy": 149.44,
+      "grid_consumption": 63.86,
+      "yield_energy": 345.73
+    },
+    {
+      "date": "2026-02-05",
+      "exported_energy": 244.89,
+      "selfuse_energy": 198.29,
+      "grid_consumption": 50.89,
+      "yield_energy": 443.18
+    },
+    {
+      "date": "2026-02-06",
+      "exported_energy": 203.72,
+      "selfuse_energy": 157.98,
+      "grid_consumption": 80.11,
+      "yield_energy": 361.7
+    },
+    {
+      "date": "2026-02-07",
+      "exported_energy": 223.94,
+      "selfuse_energy": 200.26,
+      "grid_consumption": 45.93,
+      "yield_energy": 424.2
+    },
+    {
+      "date": "2026-02-08",
+      "exported_energy": 180.83,
+      "selfuse_energy": 179.24,
+      "grid_consumption": 63.0,
+      "yield_energy": 360.07
+    },
+    {
+      "date": "2026-02-09",
+      "exported_energy": 216.65,
+      "selfuse_energy": 155.29,
+      "grid_consumption": 106.63,
+      "yield_energy": 371.95
+    },
+    {
+      "date": "2026-02-10",
+      "exported_energy": 178.87,
+      "selfuse_energy": 180.65,
+      "grid_consumption": 95.46,
+      "yield_energy": 359.52
+    },
+    {
+      "date": "2026-02-11",
+      "exported_energy": 215.2,
+      "selfuse_energy": 160.72,
+      "grid_consumption": 61.96,
+      "yield_energy": 375.93
+    },
+    {
+      "date": "2026-02-12",
+      "exported_energy": 169.63,
+      "selfuse_energy": 161.73,
+      "grid_consumption": 45.15,
+      "yield_energy": 331.36
+    },
+    {
+      "date": "2026-02-13",
+      "exported_energy": 158.11,
+      "selfuse_energy": 158.55,
+      "grid_consumption": 91.7,
+      "yield_energy": 316.66
+    },
+    {
+      "date": "2026-02-14",
+      "exported_energy": 210.06,
+      "selfuse_energy": 177.46,
+      "grid_consumption": 99.89,
+      "yield_energy": 387.51
+    },
+    {
+      "date": "2026-02-15",
+      "exported_energy": 197.18,
+      "selfuse_energy": 152.98,
+      "grid_consumption": 67.11,
+      "yield_energy": 350.16
+    },
+    {
+      "date": "2026-02-16",
+      "exported_energy": 187.72,
+      "selfuse_energy": 161.65,
+      "grid_consumption": 94.78,
+      "yield_energy": 349.37
+    },
+    {
+      "date": "2026-02-17",
+      "exported_energy": 157.02,
+      "selfuse_energy": 130.84,
+      "grid_consumption": 56.94,
+      "yield_energy": 287.87
+    },
+    {
+      "date": "2026-02-18",
+      "exported_energy": 161.56,
+      "selfuse_energy": 161.34,
+      "grid_consumption": 84.22,
+      "yield_energy": 322.9
+    },
+    {
+      "date": "2026-02-19",
+      "exported_energy": 152.58,
+      "selfuse_energy": 117.52,
+      "grid_consumption": 44.36,
+      "yield_energy": 270.1
+    },
+    {
+      "date": "2026-02-20",
+      "exported_energy": 185.77,
+      "selfuse_energy": 146.92,
+      "grid_consumption": 46.14,
+      "yield_energy": 332.69
+    },
+    {
+      "date": "2026-02-21",
+      "exported_energy": 179.65,
+      "selfuse_energy": 121.03,
+      "grid_consumption": 50.36,
+      "yield_energy": 300.68
+    },
+    {
+      "date": "2026-02-22",
+      "exported_energy": 147.55,
+      "selfuse_energy": 133.7,
+      "grid_consumption": 56.46,
+      "yield_energy": 281.26
+    },
+    {
+      "date": "2026-02-23",
+      "exported_energy": 144.65,
+      "selfuse_energy": 144.77,
+      "grid_consumption": 36.66,
+      "yield_energy": 289.42
+    },
+    {
+      "date": "2026-02-24",
+      "exported_energy": 133.09,
+      "selfuse_energy": 122.18,
+      "grid_consumption": 64.18,
+      "yield_energy": 255.27
+    },
+    {
+      "date": "2026-02-25",
+      "exported_energy": 198.69,
+      "selfuse_energy": 132.99,
+      "grid_consumption": 57.28,
+      "yield_energy": 331.67
+    },
+    {
+      "date": "2026-02-26",
+      "exported_energy": 174.84,
+      "selfuse_energy": 166.68,
+      "grid_consumption": 64.56,
+      "yield_energy": 341.52
+    },
+    {
+      "date": "2026-02-27",
+      "exported_energy": 182.6,
+      "selfuse_energy": 161.84,
+      "grid_consumption": 80.64,
+      "yield_energy": 344.44
+    },
+    {
+      "date": "2026-02-28",
+      "exported_energy": 171.14,
+      "selfuse_energy": 174.7,
+      "grid_consumption": 87.54,
+      "yield_energy": 345.85
+    },
+    {
+      "date": "2026-03-01",
+      "exported_energy": 177.11,
+      "selfuse_energy": 165.72,
+      "grid_consumption": 58.14,
+      "yield_energy": 342.83
+    },
+    {
+      "date": "2026-03-02",
+      "exported_energy": 219.62,
+      "selfuse_energy": 135.06,
+      "grid_consumption": 67.11,
+      "yield_energy": 354.68
+    },
+    {
+      "date": "2026-03-03",
+      "exported_energy": 191.8,
+      "selfuse_energy": 140.02,
+      "grid_consumption": 63.26,
+      "yield_energy": 331.82
+    },
+    {
+      "date": "2026-03-04",
+      "exported_energy": 185.0,
+      "selfuse_energy": 146.06,
+      "grid_consumption": 72.92,
+      "yield_energy": 331.06
+    },
+    {
+      "date": "2026-03-05",
+      "exported_energy": 171.43,
+      "selfuse_energy": 160.68,
+      "grid_consumption": 101.08,
+      "yield_energy": 332.11
+    },
+    {
+      "date": "2026-03-06",
+      "exported_energy": 228.8,
+      "selfuse_energy": 183.36,
+      "grid_consumption": 45.73,
+      "yield_energy": 412.16
+    },
+    {
+      "date": "2026-03-07",
+      "exported_energy": 168.88,
+      "selfuse_energy": 163.35,
+      "grid_consumption": 105.49,
+      "yield_energy": 332.22
+    },
+    {
+      "date": "2026-03-08",
+      "exported_energy": 212.47,
+      "selfuse_energy": 165.75,
+      "grid_consumption": 85.5,
+      "yield_energy": 378.22
+    },
+    {
+      "date": "2026-03-09",
+      "exported_energy": 232.55,
+      "selfuse_energy": 151.11,
+      "grid_consumption": 74.35,
+      "yield_energy": 383.67
+    },
+    {
+      "date": "2026-03-10",
+      "exported_energy": 241.23,
+      "selfuse_energy": 155.12,
+      "grid_consumption": 98.71,
+      "yield_energy": 396.35
+    },
+    {
+      "date": "2026-03-11",
+      "exported_energy": 188.57,
+      "selfuse_energy": 195.3,
+      "grid_consumption": 84.46,
+      "yield_energy": 383.87
+    },
+    {
+      "date": "2026-03-12",
+      "exported_energy": 176.31,
+      "selfuse_energy": 146.15,
+      "grid_consumption": 65.53,
+      "yield_energy": 322.46
+    },
+    {
+      "date": "2026-03-13",
+      "exported_energy": 183.43,
+      "selfuse_energy": 135.66,
+      "grid_consumption": 105.24,
+      "yield_energy": 319.09
+    },
+    {
+      "date": "2026-03-14",
+      "exported_energy": 180.88,
+      "selfuse_energy": 142.94,
+      "grid_consumption": 55.97,
+      "yield_energy": 323.82
+    },
+    {
+      "date": "2026-03-15",
+      "exported_energy": 179.82,
+      "selfuse_energy": 171.1,
+      "grid_consumption": 98.96,
+      "yield_energy": 350.93
+    },
+    {
+      "date": "2026-03-16",
+      "exported_energy": 180.98,
+      "selfuse_energy": 173.95,
+      "grid_consumption": 57.67,
+      "yield_energy": 354.94
+    },
+    {
+      "date": "2026-03-17",
+      "exported_energy": 214.04,
+      "selfuse_energy": 135.0,
+      "grid_consumption": 58.38,
+      "yield_energy": 349.04
+    },
+    {
+      "date": "2026-03-18",
+      "exported_energy": 136.51,
+      "selfuse_energy": 159.94,
+      "grid_consumption": 73.6,
+      "yield_energy": 296.45
+    },
+    {
+      "date": "2026-03-19",
+      "exported_energy": 162.57,
+      "selfuse_energy": 145.18,
+      "grid_consumption": 86.2,
+      "yield_energy": 307.76
+    },
+    {
+      "date": "2026-03-20",
+      "exported_energy": 164.17,
+      "selfuse_energy": 131.11,
+      "grid_consumption": 70.21,
+      "yield_energy": 295.27
+    },
+    {
+      "date": "2026-03-21",
+      "exported_energy": 156.11,
+      "selfuse_energy": 108.25,
+      "grid_consumption": 79.5,
+      "yield_energy": 264.36
+    },
+    {
+      "date": "2026-03-22",
+      "exported_energy": 188.08,
+      "selfuse_energy": 157.18,
+      "grid_consumption": 86.61,
+      "yield_energy": 345.26
+    },
+    {
+      "date": "2026-03-23",
+      "exported_energy": 180.5,
+      "selfuse_energy": 139.66,
+      "grid_consumption": 85.21,
+      "yield_energy": 320.16
+    },
+    {
+      "date": "2026-03-24",
+      "exported_energy": 165.13,
+      "selfuse_energy": 131.02,
+      "grid_consumption": 59.4,
+      "yield_energy": 296.15
+    },
+    {
+      "date": "2026-03-25",
+      "exported_energy": 133.11,
+      "selfuse_energy": 118.04,
+      "grid_consumption": 59.7,
+      "yield_energy": 251.15
+    },
+    {
+      "date": "2026-03-26",
+      "exported_energy": 127.78,
+      "selfuse_energy": 141.88,
+      "grid_consumption": 42.42,
+      "yield_energy": 269.66
+    },
+    {
+      "date": "2026-03-27",
+      "exported_energy": 186.18,
+      "selfuse_energy": 146.06,
+      "grid_consumption": 40.41,
+      "yield_energy": 332.23
+    }
+  ]
+}
